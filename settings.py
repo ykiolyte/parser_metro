@@ -17,7 +17,7 @@ OUTPUT_FILES = {
 }
 
 # Количество товаров, которые нужно спарсить минимум
-MIN_PRODUCTS = 10
+MIN_PRODUCTS = 100
 
 # Заголовки для HTTP-запросов
 HEADERS = {
